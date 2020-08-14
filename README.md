@@ -1,2 +1,2 @@
-# bootcamp-gostack-rocketseat
-GoStack Bootcamp da Rockeseat
+# Sobre
+Repositório destinado a projetos e desafios do GoStack Bootcamp da Rockeseat
