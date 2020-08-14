@@ -4,8 +4,8 @@ O primeiro desafio desse Bootcamp é a criação de um cronograma de estudos que
 
 ### Meu Cronograma Semanal
 
-![](desafio-01/cronograma-semanal.png)
+![](cronograma-semanal.png)
 
 ### Meu Cronograma de Conteúdo
 
-![](desafio-01/cronograma-conteudo.png)
+![](cronograma-conteudo.png)
